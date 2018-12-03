@@ -2,7 +2,7 @@
 
 react学习记录
 
-代码使用了react + react-dom + react-router-dom + express 
+代码使用了react + react-dom + react-router-dom + express + fetch
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

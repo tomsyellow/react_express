@@ -22,4 +22,4 @@ server1.js文件为node服务器
 
 $ node server1.js   host_port:http://127.0.0.1:8000/
 
-react        npm start启动
+npm start启动  启动react
